@@ -1,5 +1,4 @@
 # Vanna-Volga
-huevos al Lalo
 
 
 <p align="center">
